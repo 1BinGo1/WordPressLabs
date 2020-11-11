@@ -1,0 +1,16 @@
+.exit-block{
+    border: 1px solid #cccccc;
+    width: 200px;
+    text-align: center;
+    margin: 20px;
+    padding: 5px;
+}
+
+.exit-block a{
+    color: black;
+    text-decoration: black;
+}
+
+.exit-block a:hover{
+    color: #F6B20E;
+}
