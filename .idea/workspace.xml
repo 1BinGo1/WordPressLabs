@@ -66,6 +66,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -88,6 +89,8 @@
       <workItem from="1604694507484" duration="754000" />
       <workItem from="1605110261277" duration="190000" />
       <workItem from="1605110472915" duration="384000" />
+      <workItem from="1610048120040" duration="348000" />
+      <workItem from="1610112251185" duration="11000" />
     </task>
     <servers />
   </component>
@@ -104,6 +107,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603886059452">
